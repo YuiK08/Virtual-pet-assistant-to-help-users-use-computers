@@ -1,0 +1,901 @@
+﻿text,intent
+trợ lý mở trình duyệt luôn,open_browser
+trốn đi một chút,pet_minimize
+trợ lý xem youtube bây giờ,open_youtube
+trợ lý to tiếng lên đi,volume_up
+cún mở browser,open_browser
+bạn dừng lại một chút,pet_sleep
+mèo mở youtube đi,open_youtube
+cún thoát browser một chút,close_browser
+bạn mở trình duyệt một chút,open_browser
+mở browser luôn,open_browser
+bé đóng tab một chút,close_browser
+vặn to lên đi,volume_up
+mèo trốn đi một chút,pet_minimize
+bạn thoát browser nhé,close_browser
+bé ngủ đi bây giờ,pet_sleep
+bạn to tiếng lên luôn,volume_up
+đóng trình duyệt bây giờ,close_browser
+giỏi quá luôn,praise_pet
+mèo giỏi quá bây giờ,praise_pet
+mở browser,open_browser
+trợ lý bật youtube lên đi,open_youtube
+bé dừng lại nhé,pet_sleep
+mèo im chút nhé,volume_down
+hi luôn,greet_pet
+mèo to tiếng lên đi,volume_up
+cún hello nhé,greet_pet
+mèo mở trình duyệt luôn,open_browser
+mèo thu nhỏ đi luôn,pet_minimize
+bạn nhỏ tiếng lại luôn,volume_down
+cún mở to loa đi,volume_up
+bé xem youtube đi,open_youtube
+bạn ngủ đi luôn,pet_sleep
+cún vào youtube,open_youtube
+vặn to lên nhé,volume_up
+giảm âm lượng giúp mình,volume_down
+giảm âm lượng đi,volume_down
+mèo vào web một chút,open_browser
+bé mở to loa bây giờ,volume_up
+cún thông minh thật bây giờ,praise_pet
+bạn mở youtube nhé,open_youtube
+bạn mở chrome lên một chút,open_browser
+bật youtube lên nhé,open_youtube
+bạn hi luôn,greet_pet
+đi ngủ nhé một chút,pet_sleep
+bé nhỏ tiếng lại một chút,volume_down
+mèo nhỏ tiếng lại,volume_down
+cún bật youtube lên nhé,open_youtube
+to tiếng lên luôn,volume_up
+cún siêu đỉnh bây giờ,praise_pet
+bạn chui xuống góc màn hình bây giờ,pet_minimize
+bé tốt lắm giúp mình,praise_pet
+bạn chào trợ lý giúp mình,greet_pet
+mèo vặn to lên bây giờ,volume_up
+xem youtube nhé,open_youtube
+xem youtube luôn,open_youtube
+mở youtube giúp mình,open_youtube
+trợ lý đóng tab nhé,close_browser
+bạn hello luôn,greet_pet
+cún xin chào,greet_pet
+tăng âm lượng giúp mình,volume_up
+bé vào web giúp mình,open_browser
+bé hello bây giờ,greet_pet
+bé đi ngủ nhé đi,pet_sleep
+bé thông minh thật bây giờ,praise_pet
+mèo bật youtube lên,open_youtube
+bé thoát browser một chút,close_browser
+bạn nhỏ tiếng lại,volume_down
+bạn mở to loa,volume_up
+mèo chào cún bây giờ,greet_pet
+bé tốt lắm nhé,praise_pet
+nhỏ tiếng lại một chút,volume_down
+trợ lý to tiếng lên nhé,volume_up
+bạn thu nhỏ đi bây giờ,pet_minimize
+bé chào cún luôn,greet_pet
+trợ lý thoát browser giúp mình,close_browser
+thu nhỏ đi,pet_minimize
+bạn chào cún nhé,greet_pet
+bé ngoan lắm đi,praise_pet
+mèo bật chrome nhé,open_browser
+hạ volume xuống giúp mình,volume_down
+tăng âm lượng đi,volume_up
+trợ lý thoát browser đi,close_browser
+trợ lý vặn to lên,volume_up
+bạn mở trình duyệt giúp mình,open_browser
+bé trốn đi nhé,pet_minimize
+đi ngủ nhé nhé,pet_sleep
+bé chào trợ lý bây giờ,greet_pet
+trợ lý giỏi quá bây giờ,praise_pet
+bạn bật youtube lên nhé,open_youtube
+mèo to tiếng lên giúp mình,volume_up
+bé chào cún,greet_pet
+cún vặn to lên luôn,volume_up
+trốn đi giúp mình,pet_minimize
+trợ lý trốn đi bây giờ,pet_minimize
+dừng lại một chút,pet_sleep
+trợ lý chào cún bây giờ,greet_pet
+bạn vào web luôn,open_browser
+bạn đóng tab,close_browser
+mèo giảm âm lượng giúp mình,volume_down
+bé dừng lại luôn,pet_sleep
+cún mở to loa một chút,volume_up
+cún thông minh thật luôn,praise_pet
+bé tăng âm lượng bây giờ,volume_up
+trợ lý chào trợ lý một chút,greet_pet
+cún ẩn xuống góc đi,pet_minimize
+trợ lý vào youtube,open_youtube
+bé hạ volume xuống giúp mình,volume_down
+trợ lý bật youtube lên luôn,open_youtube
+bạn nghỉ chút đi,pet_sleep
+bạn đóng tab đi,close_browser
+ẩn xuống góc luôn,pet_minimize
+trợ lý dừng lại luôn,pet_sleep
+bạn nghỉ chút nhé,pet_sleep
+trợ lý siêu đỉnh bây giờ,praise_pet
+bé trốn đi giúp mình,pet_minimize
+bé thông minh thật đi,praise_pet
+cún ẩn xuống góc một chút,pet_minimize
+bạn chui xuống góc màn hình đi,pet_minimize
+bé mở chrome lên nhé,open_browser
+mèo thu nhỏ đi,pet_minimize
+hi giúp mình,greet_pet
+bạn mở youtube một chút,open_youtube
+mèo xem youtube,open_youtube
+trợ lý tốt lắm,praise_pet
+mèo đi ngủ nhé một chút,pet_sleep
+khởi động trình duyệt giúp mình,open_browser
+bạn xem youtube bây giờ,open_youtube
+bé ẩn xuống góc bây giờ,pet_minimize
+trợ lý thông minh thật đi,praise_pet
+cún đóng tab,close_browser
+bạn tăng âm lượng bây giờ,volume_up
+trợ lý tạm dừng bây giờ,pet_sleep
+cún chào trợ lý đi,greet_pet
+bạn mở chrome lên,open_browser
+mèo nghỉ chút giúp mình,pet_sleep
+mèo xem youtube đi,open_youtube
+bé nhỏ tiếng lại,volume_down
+cún ẩn xuống góc bây giờ,pet_minimize
+tốt lắm luôn,praise_pet
+xem youtube đi,open_youtube
+vào youtube giúp mình,open_youtube
+cún mở trình duyệt nhé,open_browser
+bạn hạ volume xuống,volume_down
+bạn chào bạn giúp mình,greet_pet
+cún nghỉ chút giúp mình,pet_sleep
+mèo vào youtube,open_youtube
+bé ẩn xuống góc đi,pet_minimize
+thoát browser,close_browser
+tăng âm lượng,volume_up
+trợ lý khởi động trình duyệt giúp mình,open_browser
+trợ lý mở trình duyệt bây giờ,open_browser
+mèo im chút đi,volume_down
+siêu đỉnh nhé,praise_pet
+bé mở to loa,volume_up
+bạn siêu đỉnh,praise_pet
+mèo đóng tab giúp mình,close_browser
+mở trình duyệt một chút,open_browser
+bạn ngoan lắm giúp mình,praise_pet
+bạn ê bé luôn,greet_pet
+trợ lý bật chrome luôn,open_browser
+chào bạn một chút,greet_pet
+trợ lý nhỏ tiếng lại đi,volume_down
+trợ lý hạ volume xuống,volume_down
+bạn xin chào bây giờ,greet_pet
+dễ thương quá luôn,praise_pet
+mèo dễ thương quá nhé,praise_pet
+cún vào web bây giờ,open_browser
+bạn bật chrome bây giờ,open_browser
+trợ lý nghỉ chút đi,pet_sleep
+bạn thông minh thật nhé,praise_pet
+cún hello luôn,greet_pet
+xin chào giúp mình,greet_pet
+bạn khởi động trình duyệt bây giờ,open_browser
+trợ lý dễ thương quá một chút,praise_pet
+cún mở to loa nhé,volume_up
+bạn ẩn xuống góc giúp mình,pet_minimize
+mèo mở to loa luôn,volume_up
+trợ lý đi ngủ nhé bây giờ,pet_sleep
+bạn mở trình duyệt bây giờ,open_browser
+trợ lý vào web nhé,open_browser
+trợ lý mở browser một chút,open_browser
+cún chào bạn một chút,greet_pet
+trợ lý mở youtube bây giờ,open_youtube
+trợ lý nhỏ tiếng lại bây giờ,volume_down
+cún chào trợ lý,greet_pet
+trợ lý to tiếng lên giúp mình,volume_up
+bạn tắt chrome bây giờ,close_browser
+bật youtube lên giúp mình,open_youtube
+trợ lý chào trợ lý đi,greet_pet
+cún mở trình duyệt đi,open_browser
+mở chrome lên giúp mình,open_browser
+cún giỏi quá bây giờ,praise_pet
+cún tăng âm lượng giúp mình,volume_up
+mèo ẩn xuống góc giúp mình,pet_minimize
+trợ lý chào bạn đi,greet_pet
+bé mở browser giúp mình,open_browser
+bé im chút một chút,volume_down
+bé chào bạn đi,greet_pet
+mèo ẩn xuống góc luôn,pet_minimize
+bé giỏi quá,praise_pet
+trợ lý nghỉ chút,pet_sleep
+vặn to lên luôn,volume_up
+bạn giảm âm lượng luôn,volume_down
+cún mở youtube nhé,open_youtube
+dừng lại giúp mình,pet_sleep
+trợ lý tăng âm lượng luôn,volume_up
+trợ lý ê bé nhé,greet_pet
+cún dừng lại bây giờ,pet_sleep
+thu nhỏ đi đi,pet_minimize
+bé dừng lại bây giờ,pet_sleep
+chào bạn luôn,greet_pet
+bé mở to loa nhé,volume_up
+trợ lý chào bạn bây giờ,greet_pet
+mèo đi ngủ nhé bây giờ,pet_sleep
+mèo dễ thương quá,praise_pet
+siêu đỉnh một chút,praise_pet
+mèo tốt lắm đi,praise_pet
+cún xem youtube đi,open_youtube
+bạn mở browser,open_browser
+thông minh thật luôn,praise_pet
+bé tắt chrome nhé,close_browser
+mèo ê bé một chút,greet_pet
+bé siêu đỉnh luôn,praise_pet
+đóng trình duyệt giúp mình,close_browser
+mèo thoát browser,close_browser
+nhỏ tiếng lại bây giờ,volume_down
+bé mở to loa đi,volume_up
+trợ lý trốn đi luôn,pet_minimize
+ê bé một chút,greet_pet
+bạn chào cún luôn,greet_pet
+trợ lý thông minh thật,praise_pet
+trợ lý ẩn xuống góc,pet_minimize
+cún hello một chút,greet_pet
+bé vào web nhé,open_browser
+vào youtube luôn,open_youtube
+bé vặn to lên giúp mình,volume_up
+mèo thông minh thật nhé,praise_pet
+bé mở youtube giúp mình,open_youtube
+trợ lý đóng trình duyệt giúp mình,close_browser
+cún vặn to lên đi,volume_up
+bé chui xuống góc màn hình,pet_minimize
+bạn mở to loa nhé,volume_up
+bé hi đi,greet_pet
+mèo siêu đỉnh một chút,praise_pet
+cún ê bé,greet_pet
+cún dễ thương quá,praise_pet
+vặn to lên bây giờ,volume_up
+mèo ngoan lắm luôn,praise_pet
+cún trốn đi đi,pet_minimize
+chào cún nhé,greet_pet
+cún vặn to lên một chút,volume_up
+bạn giảm âm lượng giúp mình,volume_down
+trợ lý nhỏ tiếng lại nhé,volume_down
+mèo xem youtube bây giờ,open_youtube
+mèo chui xuống góc màn hình bây giờ,pet_minimize
+cún mở chrome lên giúp mình,open_browser
+đóng trình duyệt luôn,close_browser
+bạn vào youtube đi,open_youtube
+mèo tăng âm lượng một chút,volume_up
+bạn trốn đi bây giờ,pet_minimize
+bé chào bạn nhé,greet_pet
+dễ thương quá giúp mình,praise_pet
+trợ lý đóng trình duyệt đi,close_browser
+trợ lý ngoan lắm,praise_pet
+cún to tiếng lên,volume_up
+mở to loa,volume_up
+hạ volume xuống luôn,volume_down
+bé giảm âm lượng luôn,volume_down
+bạn đi ngủ nhé đi,pet_sleep
+cún vào youtube bây giờ,open_youtube
+cún im chút nhé,volume_down
+đi ngủ nhé bây giờ,pet_sleep
+bé mở youtube một chút,open_youtube
+trợ lý đóng tab bây giờ,close_browser
+ẩn xuống góc đi,pet_minimize
+mèo giỏi quá nhé,praise_pet
+chui xuống góc màn hình bây giờ,pet_minimize
+cún trốn đi một chút,pet_minimize
+mở browser đi,open_browser
+trợ lý thu nhỏ đi một chút,pet_minimize
+cún tắt chrome,close_browser
+mèo ẩn xuống góc bây giờ,pet_minimize
+chui xuống góc màn hình luôn,pet_minimize
+cún bật chrome,open_browser
+bé thoát browser nhé,close_browser
+mèo to tiếng lên luôn,volume_up
+bé dễ thương quá giúp mình,praise_pet
+cún thoát browser đi,close_browser
+mèo tắt chrome,close_browser
+mèo mở trình duyệt bây giờ,open_browser
+cún thông minh thật một chút,praise_pet
+mèo tắt chrome luôn,close_browser
+ê bé bây giờ,greet_pet
+ngủ đi nhé,pet_sleep
+hạ volume xuống đi,volume_down
+tăng âm lượng luôn,volume_up
+bé đóng trình duyệt,close_browser
+bé thoát browser đi,close_browser
+khởi động trình duyệt,open_browser
+bé tăng âm lượng một chút,volume_up
+cún hi nhé,greet_pet
+mở trình duyệt đi,open_browser
+mèo nhỏ tiếng lại đi,volume_down
+mèo ê bé đi,greet_pet
+mèo chui xuống góc màn hình luôn,pet_minimize
+trợ lý tắt chrome giúp mình,close_browser
+cún xem youtube một chút,open_youtube
+trợ lý mở youtube nhé,open_youtube
+to tiếng lên bây giờ,volume_up
+mèo thu nhỏ đi giúp mình,pet_minimize
+cún tắt chrome nhé,close_browser
+bé tạm dừng giúp mình,pet_sleep
+bé chào bạn,greet_pet
+trợ lý tắt chrome nhé,close_browser
+cún bật chrome luôn,open_browser
+trợ lý mở to loa luôn,volume_up
+bé đóng tab bây giờ,close_browser
+bạn siêu đỉnh một chút,praise_pet
+mở chrome lên,open_browser
+bé im chút bây giờ,volume_down
+cún hi một chút,greet_pet
+trợ lý tăng âm lượng giúp mình,volume_up
+cún mở browser đi,open_browser
+bé im chút luôn,volume_down
+cún tốt lắm luôn,praise_pet
+trợ lý thông minh thật giúp mình,praise_pet
+bạn vào web đi,open_browser
+ngoan lắm nhé,praise_pet
+mèo chui xuống góc màn hình,pet_minimize
+bé tạm dừng,pet_sleep
+trợ lý vào youtube giúp mình,open_youtube
+bạn hạ volume xuống nhé,volume_down
+bạn nhỏ tiếng lại bây giờ,volume_down
+trợ lý đi ngủ nhé nhé,pet_sleep
+trợ lý chào bạn luôn,greet_pet
+trợ lý mở browser đi,open_browser
+cún chui xuống góc màn hình bây giờ,pet_minimize
+trợ lý ê bé,greet_pet
+mèo khởi động trình duyệt đi,open_browser
+mèo mở trình duyệt nhé,open_browser
+bé xem youtube luôn,open_youtube
+cún xem youtube,open_youtube
+bạn hi đi,greet_pet
+bé ẩn xuống góc nhé,pet_minimize
+bạn mở browser một chút,open_browser
+bé đóng trình duyệt bây giờ,close_browser
+cún xin chào giúp mình,greet_pet
+mèo tạm dừng,pet_sleep
+mở youtube nhé,open_youtube
+bé to tiếng lên luôn,volume_up
+bạn nhỏ tiếng lại giúp mình,volume_down
+cún im chút luôn,volume_down
+mèo mở to loa nhé,volume_up
+tăng âm lượng nhé,volume_up
+mèo im chút bây giờ,volume_down
+bé đóng trình duyệt nhé,close_browser
+mèo nhỏ tiếng lại một chút,volume_down
+bạn dễ thương quá bây giờ,praise_pet
+bạn giỏi quá nhé,praise_pet
+trợ lý đóng tab,close_browser
+cún vào youtube đi,open_youtube
+bạn đi ngủ nhé bây giờ,pet_sleep
+cún ngủ đi nhé,pet_sleep
+mở chrome lên đi,open_browser
+tắt chrome đi,close_browser
+cún to tiếng lên đi,volume_up
+cún ngoan lắm một chút,praise_pet
+bé tắt chrome bây giờ,close_browser
+bé đóng tab nhé,close_browser
+mèo siêu đỉnh giúp mình,praise_pet
+bé mở trình duyệt một chút,open_browser
+cún đi ngủ nhé bây giờ,pet_sleep
+mèo khởi động trình duyệt,open_browser
+mèo ê bé nhé,greet_pet
+cún thu nhỏ đi một chút,pet_minimize
+trợ lý chui xuống góc màn hình bây giờ,pet_minimize
+trợ lý ẩn xuống góc một chút,pet_minimize
+cún tăng âm lượng một chút,volume_up
+cún tăng âm lượng đi,volume_up
+trợ lý bật chrome giúp mình,open_browser
+bé bật chrome,open_browser
+bạn ẩn xuống góc bây giờ,pet_minimize
+cún vào web luôn,open_browser
+trợ lý vào web giúp mình,open_browser
+cún chào trợ lý một chút,greet_pet
+bạn thoát browser đi,close_browser
+bé ngủ đi một chút,pet_sleep
+trợ lý vặn to lên nhé,volume_up
+mèo nghỉ chút một chút,pet_sleep
+thu nhỏ đi nhé,pet_minimize
+cún đóng tab bây giờ,close_browser
+vặn to lên một chút,volume_up
+trợ lý nghỉ chút luôn,pet_sleep
+bé mở to loa luôn,volume_up
+mèo thoát browser luôn,close_browser
+bạn nhỏ tiếng lại một chút,volume_down
+cún ngủ đi một chút,pet_sleep
+bé đi ngủ nhé bây giờ,pet_sleep
+cún chào bạn đi,greet_pet
+bé mở youtube nhé,open_youtube
+bạn siêu đỉnh đi,praise_pet
+mèo xin chào luôn,greet_pet
+bạn nghỉ chút bây giờ,pet_sleep
+cún mở chrome lên nhé,open_browser
+bật chrome nhé,open_browser
+cún nhỏ tiếng lại luôn,volume_down
+trợ lý bật youtube lên nhé,open_youtube
+bạn dễ thương quá giúp mình,praise_pet
+ngoan lắm đi,praise_pet
+trợ lý ngủ đi nhé,pet_sleep
+bạn hi,greet_pet
+bé xem youtube nhé,open_youtube
+bạn vặn to lên một chút,volume_up
+bạn thông minh thật đi,praise_pet
+cún thông minh thật,praise_pet
+chào trợ lý nhé,greet_pet
+cún mở to loa luôn,volume_up
+bạn bật chrome một chút,open_browser
+bạn vào youtube luôn,open_youtube
+vào web nhé,open_browser
+xin chào một chút,greet_pet
+bé bật youtube lên,open_youtube
+trợ lý im chút luôn,volume_down
+bạn tạm dừng bây giờ,pet_sleep
+trốn đi,pet_minimize
+bé tăng âm lượng luôn,volume_up
+cún chào cún,greet_pet
+trợ lý ngủ đi giúp mình,pet_sleep
+tăng âm lượng một chút,volume_up
+trợ lý bật youtube lên một chút,open_youtube
+mèo bật youtube lên bây giờ,open_youtube
+mèo mở trình duyệt một chút,open_browser
+bạn vặn to lên bây giờ,volume_up
+trợ lý tốt lắm giúp mình,praise_pet
+bé giảm âm lượng bây giờ,volume_down
+mèo vào youtube bây giờ,open_youtube
+trợ lý đóng tab một chút,close_browser
+bé nghỉ chút,pet_sleep
+mèo siêu đỉnh bây giờ,praise_pet
+ngủ đi một chút,pet_sleep
+cún đóng trình duyệt bây giờ,close_browser
+cún bật chrome bây giờ,open_browser
+bé trốn đi đi,pet_minimize
+cún mở to loa giúp mình,volume_up
+mèo vào youtube luôn,open_youtube
+bạn khởi động trình duyệt đi,open_browser
+mèo mở to loa giúp mình,volume_up
+cún đóng trình duyệt luôn,close_browser
+cún xem youtube giúp mình,open_youtube
+trợ lý giảm âm lượng một chút,volume_down
+cún tăng âm lượng nhé,volume_up
+bé xem youtube bây giờ,open_youtube
+mèo khởi động trình duyệt nhé,open_browser
+bé nghỉ chút đi,pet_sleep
+đóng trình duyệt đi,close_browser
+bé thoát browser bây giờ,close_browser
+cún đi ngủ nhé một chút,pet_sleep
+bé xem youtube,open_youtube
+xem youtube một chút,open_youtube
+mở trình duyệt bây giờ,open_browser
+bé thu nhỏ đi đi,pet_minimize
+bạn nhỏ tiếng lại nhé,volume_down
+trốn đi nhé,pet_minimize
+bạn chào trợ lý luôn,greet_pet
+vặn to lên,volume_up
+trợ lý tắt chrome luôn,close_browser
+trợ lý vào youtube luôn,open_youtube
+trợ lý im chút giúp mình,volume_down
+bạn tắt chrome giúp mình,close_browser
+cún vào youtube luôn,open_youtube
+bé ẩn xuống góc,pet_minimize
+bạn im chút bây giờ,volume_down
+mở chrome lên bây giờ,open_browser
+mèo đi ngủ nhé đi,pet_sleep
+mèo bật youtube lên giúp mình,open_youtube
+bé ê bé,greet_pet
+nhỏ tiếng lại nhé,volume_down
+bạn đóng trình duyệt một chút,close_browser
+bé tạm dừng nhé,pet_sleep
+trợ lý vặn to lên bây giờ,volume_up
+cún chui xuống góc màn hình nhé,pet_minimize
+cún tạm dừng giúp mình,pet_sleep
+bạn chào bạn,greet_pet
+bạn mở youtube bây giờ,open_youtube
+trợ lý hạ volume xuống đi,volume_down
+trợ lý xin chào nhé,greet_pet
+bé tốt lắm đi,praise_pet
+bạn chào bạn nhé,greet_pet
+mèo hi luôn,greet_pet
+bé mở chrome lên một chút,open_browser
+cún hi giúp mình,greet_pet
+bé xin chào bây giờ,greet_pet
+bạn siêu đỉnh bây giờ,praise_pet
+bạn mở to loa đi,volume_up
+cún mở youtube bây giờ,open_youtube
+đóng tab giúp mình,close_browser
+bé ẩn xuống góc một chút,pet_minimize
+mèo đi ngủ nhé giúp mình,pet_sleep
+bé đóng trình duyệt đi,close_browser
+bạn ẩn xuống góc nhé,pet_minimize
+trợ lý bật chrome một chút,open_browser
+bạn im chút đi,volume_down
+xem youtube bây giờ,open_youtube
+bé to tiếng lên đi,volume_up
+cún thoát browser bây giờ,close_browser
+bạn ngoan lắm bây giờ,praise_pet
+mèo thông minh thật bây giờ,praise_pet
+mèo im chút một chút,volume_down
+trợ lý ẩn xuống góc bây giờ,pet_minimize
+trợ lý đi ngủ nhé giúp mình,pet_sleep
+cún thoát browser luôn,close_browser
+mèo thoát browser đi,close_browser
+bé hi luôn,greet_pet
+cún chào trợ lý luôn,greet_pet
+trợ lý chui xuống góc màn hình nhé,pet_minimize
+cún tắt chrome đi,close_browser
+bạn thoát browser giúp mình,close_browser
+cún dừng lại đi,pet_sleep
+cún vào web giúp mình,open_browser
+trợ lý xin chào bây giờ,greet_pet
+mèo ẩn xuống góc nhé,pet_minimize
+bé đóng trình duyệt giúp mình,close_browser
+thông minh thật giúp mình,praise_pet
+bé ê bé giúp mình,greet_pet
+ẩn xuống góc,pet_minimize
+chào bạn giúp mình,greet_pet
+mèo bật chrome luôn,open_browser
+bé thu nhỏ đi giúp mình,pet_minimize
+nghỉ chút giúp mình,pet_sleep
+trợ lý ngủ đi đi,pet_sleep
+cún giỏi quá một chút,praise_pet
+cún trốn đi giúp mình,pet_minimize
+bạn bật chrome nhé,open_browser
+cún đóng trình duyệt,close_browser
+trợ lý vào youtube bây giờ,open_youtube
+cún ngủ đi giúp mình,pet_sleep
+bé hạ volume xuống bây giờ,volume_down
+hạ volume xuống,volume_down
+mèo tạm dừng luôn,pet_sleep
+mèo đóng trình duyệt giúp mình,close_browser
+bé vào youtube bây giờ,open_youtube
+mèo vặn to lên giúp mình,volume_up
+vào web giúp mình,open_browser
+bạn tắt chrome một chút,close_browser
+hi đi,greet_pet
+bé mở youtube,open_youtube
+trợ lý to tiếng lên một chút,volume_up
+trợ lý chui xuống góc màn hình,pet_minimize
+bé thoát browser luôn,close_browser
+mèo thoát browser bây giờ,close_browser
+mèo mở to loa bây giờ,volume_up
+mèo đóng tab bây giờ,close_browser
+bé hi một chút,greet_pet
+im chút luôn,volume_down
+cún nhỏ tiếng lại một chút,volume_down
+cún nghỉ chút đi,pet_sleep
+giảm âm lượng bây giờ,volume_down
+mèo chui xuống góc màn hình nhé,pet_minimize
+to tiếng lên giúp mình,volume_up
+trợ lý trốn đi giúp mình,pet_minimize
+cún bật chrome giúp mình,open_browser
+bạn ẩn xuống góc đi,pet_minimize
+mèo tắt chrome bây giờ,close_browser
+cún nhỏ tiếng lại giúp mình,volume_down
+trợ lý thoát browser bây giờ,close_browser
+cún mở trình duyệt bây giờ,open_browser
+trợ lý vặn to lên một chút,volume_up
+bé mở browser đi,open_browser
+chui xuống góc màn hình đi,pet_minimize
+trợ lý nghỉ chút giúp mình,pet_sleep
+trợ lý vặn to lên đi,volume_up
+im chút một chút,volume_down
+trợ lý ngoan lắm bây giờ,praise_pet
+bé bật youtube lên một chút,open_youtube
+cún vặn to lên,volume_up
+trợ lý xem youtube giúp mình,open_youtube
+bé mở chrome lên,open_browser
+dừng lại,pet_sleep
+bé dễ thương quá luôn,praise_pet
+cún ẩn xuống góc luôn,pet_minimize
+mèo hello,greet_pet
+mèo vào youtube giúp mình,open_youtube
+bạn bật chrome đi,open_browser
+trợ lý ẩn xuống góc nhé,pet_minimize
+bé chào cún một chút,greet_pet
+trợ lý siêu đỉnh giúp mình,praise_pet
+bé thu nhỏ đi nhé,pet_minimize
+mèo nghỉ chút luôn,pet_sleep
+mèo giảm âm lượng đi,volume_down
+thoát browser bây giờ,close_browser
+mèo ngủ đi,pet_sleep
+bạn thu nhỏ đi giúp mình,pet_minimize
+mèo tăng âm lượng bây giờ,volume_up
+cún trốn đi nhé,pet_minimize
+bé ẩn xuống góc luôn,pet_minimize
+bạn mở to loa bây giờ,volume_up
+cún trốn đi luôn,pet_minimize
+bạn đóng tab bây giờ,close_browser
+trợ lý giảm âm lượng luôn,volume_down
+cún đóng tab một chút,close_browser
+bạn giảm âm lượng một chút,volume_down
+bé nhỏ tiếng lại giúp mình,volume_down
+nhỏ tiếng lại đi,volume_down
+mèo đóng trình duyệt đi,close_browser
+trợ lý xem youtube,open_youtube
+trợ lý im chút bây giờ,volume_down
+bạn đóng tab giúp mình,close_browser
+bạn thông minh thật bây giờ,praise_pet
+mèo giỏi quá một chút,praise_pet
+bạn to tiếng lên đi,volume_up
+bé tắt chrome một chút,close_browser
+bạn mở chrome lên nhé,open_browser
+cún thoát browser giúp mình,close_browser
+mèo dễ thương quá bây giờ,praise_pet
+bé chui xuống góc màn hình đi,pet_minimize
+bạn xem youtube luôn,open_youtube
+tạm dừng đi,pet_sleep
+bạn thu nhỏ đi luôn,pet_minimize
+bật chrome đi,open_browser
+trợ lý tạm dừng luôn,pet_sleep
+bạn mở browser đi,open_browser
+cún thông minh thật đi,praise_pet
+cún xem youtube bây giờ,open_youtube
+mèo chào bạn,greet_pet
+bạn im chút một chút,volume_down
+mở to loa bây giờ,volume_up
+bé nhỏ tiếng lại nhé,volume_down
+cún im chút giúp mình,volume_down
+mèo nhỏ tiếng lại bây giờ,volume_down
+bé vào youtube,open_youtube
+cún giảm âm lượng luôn,volume_down
+trợ lý vào youtube một chút,open_youtube
+trợ lý thông minh thật nhé,praise_pet
+bé đóng trình duyệt luôn,close_browser
+bạn đi ngủ nhé một chút,pet_sleep
+tạm dừng một chút,pet_sleep
+bé to tiếng lên một chút,volume_up
+cún siêu đỉnh giúp mình,praise_pet
+trợ lý đóng trình duyệt bây giờ,close_browser
+bé đóng tab luôn,close_browser
+giảm âm lượng luôn,volume_down
+trợ lý trốn đi,pet_minimize
+cún hạ volume xuống một chút,volume_down
+chào bạn bây giờ,greet_pet
+dễ thương quá một chút,praise_pet
+trợ lý ê bé bây giờ,greet_pet
+mèo đóng tab một chút,close_browser
+mèo đóng trình duyệt nhé,close_browser
+trợ lý dừng lại nhé,pet_sleep
+bé nhỏ tiếng lại bây giờ,volume_down
+đóng tab đi,close_browser
+chui xuống góc màn hình giúp mình,pet_minimize
+bạn tắt chrome luôn,close_browser
+trợ lý giảm âm lượng giúp mình,volume_down
+cún mở youtube một chút,open_youtube
+bạn mở youtube giúp mình,open_youtube
+bạn ngoan lắm đi,praise_pet
+bạn đóng trình duyệt giúp mình,close_browser
+cún đóng tab luôn,close_browser
+bạn bật youtube lên một chút,open_youtube
+bạn tốt lắm đi,praise_pet
+trợ lý xem youtube nhé,open_youtube
+mèo thông minh thật luôn,praise_pet
+bé tạm dừng một chút,pet_sleep
+đóng trình duyệt một chút,close_browser
+cún im chút bây giờ,volume_down
+trợ lý dễ thương quá nhé,praise_pet
+cún đi ngủ nhé,pet_sleep
+bé im chút giúp mình,volume_down
+mèo chui xuống góc màn hình một chút,pet_minimize
+bé xem youtube giúp mình,open_youtube
+bạn hạ volume xuống bây giờ,volume_down
+bé chui xuống góc màn hình bây giờ,pet_minimize
+bé hạ volume xuống một chút,volume_down
+cún trốn đi,pet_minimize
+bé nhỏ tiếng lại đi,volume_down
+cún tạm dừng một chút,pet_sleep
+bé im chút đi,volume_down
+cún chào cún một chút,greet_pet
+trợ lý trốn đi một chút,pet_minimize
+to tiếng lên nhé,volume_up
+bật youtube lên bây giờ,open_youtube
+trợ lý dừng lại bây giờ,pet_sleep
+cún giỏi quá đi,praise_pet
+dễ thương quá nhé,praise_pet
+mèo tắt chrome nhé,close_browser
+bé vào youtube đi,open_youtube
+bạn đi ngủ nhé,pet_sleep
+bạn giảm âm lượng,volume_down
+cún im chút,volume_down
+bé hello nhé,greet_pet
+bạn thu nhỏ đi đi,pet_minimize
+cún dừng lại luôn,pet_sleep
+mèo xem youtube luôn,open_youtube
+ngủ đi bây giờ,pet_sleep
+bạn giảm âm lượng đi,volume_down
+trợ lý hello một chút,greet_pet
+bạn nhỏ tiếng lại đi,volume_down
+mèo siêu đỉnh đi,praise_pet
+mèo ẩn xuống góc một chút,pet_minimize
+ê bé luôn,greet_pet
+bạn xem youtube đi,open_youtube
+mèo hạ volume xuống luôn,volume_down
+cún hạ volume xuống luôn,volume_down
+mèo xem youtube nhé,open_youtube
+cún chào cún nhé,greet_pet
+trợ lý chào trợ lý luôn,greet_pet
+mèo mở youtube bây giờ,open_youtube
+bé trốn đi bây giờ,pet_minimize
+đi ngủ nhé,pet_sleep
+cún ngoan lắm giúp mình,praise_pet
+mèo chào bạn một chút,greet_pet
+mở to loa một chút,volume_up
+bé giảm âm lượng đi,volume_down
+bạn trốn đi một chút,pet_minimize
+cún chui xuống góc màn hình đi,pet_minimize
+bạn chui xuống góc màn hình giúp mình,pet_minimize
+mèo giảm âm lượng bây giờ,volume_down
+mèo ngủ đi giúp mình,pet_sleep
+cún nhỏ tiếng lại đi,volume_down
+mèo dừng lại bây giờ,pet_sleep
+bé tăng âm lượng,volume_up
+cún chui xuống góc màn hình một chút,pet_minimize
+bạn vặn to lên,volume_up
+bật chrome luôn,open_browser
+cún bật youtube lên một chút,open_youtube
+trợ lý giảm âm lượng nhé,volume_down
+tắt chrome một chút,close_browser
+bạn mở to loa giúp mình,volume_up
+mèo mở browser nhé,open_browser
+to tiếng lên một chút,volume_up
+mèo đóng tab nhé,close_browser
+mèo hạ volume xuống,volume_down
+bé trốn đi một chút,pet_minimize
+cún ngủ đi,pet_sleep
+mèo chui xuống góc màn hình giúp mình,pet_minimize
+bé tạm dừng đi,pet_sleep
+mèo bật chrome đi,open_browser
+cún mở to loa,volume_up
+cún bật youtube lên,open_youtube
+mèo tăng âm lượng giúp mình,volume_up
+cún nhỏ tiếng lại nhé,volume_down
+tốt lắm nhé,praise_pet
+trợ lý vặn to lên luôn,volume_up
+bạn dừng lại giúp mình,pet_sleep
+xem youtube,open_youtube
+cún hi đi,greet_pet
+mèo chào cún nhé,greet_pet
+mèo tạm dừng giúp mình,pet_sleep
+bé mở youtube luôn,open_youtube
+mèo vào web luôn,open_browser
+mèo hạ volume xuống giúp mình,volume_down
+mèo trốn đi giúp mình,pet_minimize
+bé hạ volume xuống đi,volume_down
+bé tạm dừng bây giờ,pet_sleep
+bạn to tiếng lên một chút,volume_up
+cún dừng lại nhé,pet_sleep
+bạn im chút luôn,volume_down
+bạn bật chrome luôn,open_browser
+bé đi ngủ nhé giúp mình,pet_sleep
+mèo tăng âm lượng nhé,volume_up
+trợ lý thông minh thật bây giờ,praise_pet
+trợ lý tăng âm lượng bây giờ,volume_up
+vào web luôn,open_browser
+bạn vào web giúp mình,open_browser
+cún vào youtube nhé,open_youtube
+trợ lý tắt chrome,close_browser
+bé vào web bây giờ,open_browser
+trợ lý nghỉ chút nhé,pet_sleep
+bé bật youtube lên nhé,open_youtube
+mèo ngoan lắm bây giờ,praise_pet
+bạn hello bây giờ,greet_pet
+bật youtube lên,open_youtube
+thông minh thật nhé,praise_pet
+im chút đi,volume_down
+chào cún giúp mình,greet_pet
+mở to loa nhé,volume_up
+bạn dễ thương quá một chút,praise_pet
+tắt chrome luôn,close_browser
+bé mở chrome lên đi,open_browser
+cún dễ thương quá luôn,praise_pet
+mèo hạ volume xuống bây giờ,volume_down
+bạn đóng tab một chút,close_browser
+cún ẩn xuống góc giúp mình,pet_minimize
+bạn vặn to lên giúp mình,volume_up
+trợ lý mở browser bây giờ,open_browser
+mở browser bây giờ,open_browser
+cún đóng trình duyệt giúp mình,close_browser
+mèo mở chrome lên nhé,open_browser
+cún thông minh thật giúp mình,praise_pet
+bạn chào cún bây giờ,greet_pet
+bạn đóng trình duyệt nhé,close_browser
+bé ngủ đi giúp mình,pet_sleep
+trợ lý xem youtube một chút,open_youtube
+trợ lý đi ngủ nhé luôn,pet_sleep
+mèo mở browser một chút,open_browser
+bé ê bé đi,greet_pet
+bạn dừng lại nhé,pet_sleep
+cún tạm dừng luôn,pet_sleep
+ngủ đi đi,pet_sleep
+bạn bật youtube lên,open_youtube
+mèo ngủ đi bây giờ,pet_sleep
+trợ lý bật youtube lên,open_youtube
+cún đi ngủ nhé đi,pet_sleep
+bé siêu đỉnh một chút,praise_pet
+mèo tốt lắm một chút,praise_pet
+trợ lý chui xuống góc màn hình giúp mình,pet_minimize
+bạn vào youtube giúp mình,open_youtube
+vào youtube nhé,open_youtube
+đóng tab nhé,close_browser
+bé mở to loa giúp mình,volume_up
+nghỉ chút một chút,pet_sleep
+trợ lý giỏi quá đi,praise_pet
+trợ lý dừng lại,pet_sleep
+bạn thông minh thật giúp mình,praise_pet
+đi ngủ nhé luôn,pet_sleep
+bé đóng tab,close_browser
+bé vặn to lên nhé,volume_up
+trợ lý chào bạn giúp mình,greet_pet
+cún mở chrome lên bây giờ,open_browser
+cún chui xuống góc màn hình luôn,pet_minimize
+mèo tăng âm lượng,volume_up
+mèo mở trình duyệt đi,open_browser
+bé bật youtube lên bây giờ,open_youtube
+khởi động trình duyệt đi,open_browser
+mèo nghỉ chút,pet_sleep
+bạn mở to loa một chút,volume_up
+mèo dễ thương quá đi,praise_pet
+bạn tốt lắm giúp mình,praise_pet
+cún hi,greet_pet
+vào web,open_browser
+cún chào bạn giúp mình,greet_pet
+trợ lý mở to loa bây giờ,volume_up
+bạn chào cún giúp mình,greet_pet
+bạn ngủ đi bây giờ,pet_sleep
+cún bật youtube lên đi,open_youtube
+cún khởi động trình duyệt bây giờ,open_browser
+bé hi nhé,greet_pet
+mèo giảm âm lượng,volume_down
+bạn chào cún đi,greet_pet
+trợ lý xem youtube đi,open_youtube
+trợ lý đóng trình duyệt nhé,close_browser
+trợ lý thu nhỏ đi giúp mình,pet_minimize
+thu nhỏ đi bây giờ,pet_minimize
+bạn hạ volume xuống luôn,volume_down
+bé trốn đi,pet_minimize
+siêu đỉnh luôn,praise_pet
+mèo chui xuống góc màn hình đi,pet_minimize
+cún to tiếng lên nhé,volume_up
+cún thu nhỏ đi,pet_minimize
+bé vào youtube một chút,open_youtube
+vặn to lên giúp mình,volume_up
+mèo tăng âm lượng đi,volume_up
+mèo nhỏ tiếng lại giúp mình,volume_down
+bé thoát browser,close_browser
+mèo ngủ đi đi,pet_sleep
+mèo giảm âm lượng một chút,volume_down
+mèo dễ thương quá một chút,praise_pet
+cún hạ volume xuống bây giờ,volume_down
+mèo to tiếng lên một chút,volume_up
+mèo mở browser đi,open_browser
+bạn giỏi quá một chút,praise_pet
+bạn to tiếng lên bây giờ,volume_up
+bạn trốn đi đi,pet_minimize
+tạm dừng bây giờ,pet_sleep
+xem youtube giúp mình,open_youtube
+bạn khởi động trình duyệt giúp mình,open_browser
+bạn chào trợ lý bây giờ,greet_pet
+tốt lắm đi,praise_pet
+cún đóng trình duyệt một chút,close_browser
+bé xem youtube một chút,open_youtube
+mèo tắt chrome giúp mình,close_browser
+bạn ê bé một chút,greet_pet
+bạn trốn đi luôn,pet_minimize
+mèo ngoan lắm,praise_pet
+bé siêu đỉnh bây giờ,praise_pet
+hi một chút,greet_pet
+ngủ đi luôn,pet_sleep
+mèo xin chào một chút,greet_pet
+cún hạ volume xuống nhé,volume_down
+mèo tắt chrome một chút,close_browser
+cún hạ volume xuống đi,volume_down
+bạn trốn đi,pet_minimize
+mèo mở chrome lên một chút,open_browser
+trợ lý chào trợ lý bây giờ,greet_pet
+trợ lý vào web luôn,open_browser
+thông minh thật bây giờ,praise_pet
+mèo chào cún một chút,greet_pet
+bé bật youtube lên đi,open_youtube
+giỏi quá nhé,praise_pet
+bé tắt chrome giúp mình,close_browser
+trợ lý hạ volume xuống nhé,volume_down
+cún khởi động trình duyệt đi,open_browser
+cún ngủ đi bây giờ,pet_sleep
+khởi động trình duyệt một chút,open_browser
+mèo đóng trình duyệt bây giờ,close_browser
+bạn xem youtube nhé,open_youtube
+trợ lý chui xuống góc màn hình đi,pet_minimize
+mèo tốt lắm luôn,praise_pet
+mèo đóng trình duyệt,close_browser
